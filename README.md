@@ -4,7 +4,7 @@
  💞️ I’m looking to collaborate with Tech Companies and Public Health
     Organization to improve Patient care.
  📫 How to reach me. 
- 😄 Pronouns: Mrs
+ 😄 Pronouns: She
  ⚡ Fun fact: "Nurse by day, Data Detective by night" 
 
 

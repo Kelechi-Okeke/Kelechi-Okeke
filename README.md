@@ -2,7 +2,7 @@
  
  ## I’m Kelechi Okeke
  
-- :medicai_symbol: I’m a Registered Nurse / Ophthalmic Nurse
+- :EMOJICODE: ,hospital I’m a Registered Nurse / Ophthalmic Nurse
 - I'm currently working on my first Excel project
 - I'm currently learning Data Analysis at Dahel Techies.
 - I’m looking to collaborate with Tech institutions to horn more knowledge in Data Analytics.

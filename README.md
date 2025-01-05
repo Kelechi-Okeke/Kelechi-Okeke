@@ -1,6 +1,6 @@
  # Hello!👋
  
- ## I’m Kelechi
+ ## 📛 I’m Kelechi
  
 - 🩺 I’m a Registered Nurse / Ophthalmic Nurse
 - 💻 I'm currently working on my first Excel project
